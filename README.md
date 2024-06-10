@@ -19,8 +19,8 @@ The intuitive interface and responsive design make Convertly a handy tool for tr
 
 ## **Key Features:**
 
-Real-time currency conversion using up-to-date exchange rates
-Simple and intuitive user interface
-Support for a wide range of global currencies
-Responsive design for optimal use on both desktop and mobile devices
-Built with modern web technologies: React.js, HTML5, CSS3, and JavaScript
+- Real-time currency conversion using up-to-date exchange rates
+- Simple and intuitive user interface
+- Support for a wide range of global currencies
+- Responsive design for optimal use on both desktop and mobile devices
+- Built with modern web technologies: React.js, HTML5, CSS3, and JavaScript
