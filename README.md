@@ -19,7 +19,7 @@ The intuitive interface and responsive design make Convertly a handy tool for tr
 
 ## **Key Features:**
 
-- Real-time currency conversion using up-to-date exchange rates.
+- ![Real-time Icon](https://example.com/realtime-icon.png) Real-time currency conversion using up-to-date exchange rates.
 - Simple and intuitive user interface.
 - Support for a wide range of global currencies.
 - Responsive design for optimal use on both desktop and mobile devices.
