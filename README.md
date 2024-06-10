@@ -3,7 +3,9 @@
 ## **Description:**
 
 Convertly is a user-friendly currency converter application designed to help users quickly and <br> 
-accurately convert between different currencies. <br><br> 
+accurately convert between different currencies.
+
+
 **Built with:** <br> 
 - React.js. <br>
 - HTML5. <br>
