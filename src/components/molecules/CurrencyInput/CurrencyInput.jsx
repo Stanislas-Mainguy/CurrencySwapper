@@ -6,7 +6,7 @@ const CurrencyInput = ({ currencies, selectedCurrency, onCurrencyChange, amount,
     <div className="currency-input">
       <input
         type="number"
-        value={amount}
+        value={amount || ""}
         onChange={onAmountChange}
         readOnly={readOnly}
       />
