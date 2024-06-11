@@ -1,0 +1,17 @@
+.currency-input {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+  
+.currency-input input {
+    width: 100px;
+    padding: 8px;
+    box-sizing: border-box;
+}
+  
+.currency-input select {
+    padding: 8px;
+    box-sizing: border-box;
+}
+  
