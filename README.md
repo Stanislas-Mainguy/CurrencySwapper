@@ -12,7 +12,7 @@ Ce projet fournit une solution simple et efficace pour convertir des devises en 
 - Support multi-devises : Prend en charge une large gamme de devises mondiales.
 
 
-### Technologies Utilisées
+### Technologies Utilisées:
 - HTML5 : Utilisé pour structurer les pages web.
 - CSS3 : Utilisé pour styliser et rendre les pages web attrayantes et réactives.
 - React.js : Bibliothèque JavaScript utilisée pour construire l'interface utilisateur de manière interactive et efficace.
